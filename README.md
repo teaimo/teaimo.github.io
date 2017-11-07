@@ -2,7 +2,7 @@
 
 Grace的个人主页 [www.wangyazhen.com](https://www.wangyazhen.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 测试代码[Grace的文档](https://teaimo.github.io）
 
 ### Markdown
